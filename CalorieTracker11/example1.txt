@@ -1,0 +1,9 @@
+The meal analyzed is an Indian Thali containing assorted curries, rice, and roti.
+
+**Nutritional Breakdown:**
+*   **Calories:** 1150 kcal
+*   **Protein:** 38g
+*   **Carbohydrates:** 145g
+*   **Fat:** 48g
+
+This has been added to your daily intake. Would you like to log another meal or check your remaining daily goals?

@@ -1,0 +1,4 @@
+Message_ID,Timestamp,Userid,Username,food_Items,Calories,Protein,Carbs,Fats,Key_Entities
+MSG-8829104,2023-10-27,USER-9921,Guest,"Dosa, Idli, Vada, Uttapam, Upma, Paniyaram, Sambar, Chutneys",1250,32.0,185.0,45.0,"South Indian breakfast, high-calorie meal"
+MSG-7729104,2023-10-27,USER-9921,Guest,"Dosa, Idli, Vada, Uttapam, Upma, Paniyaram, Chutney, Sambar",1250,32.0,185.0,45.0,"South Indian breakfast, Dosa, Idli, Vada, Uttapam, Upma, Paniyaram, Chutney, Sambar"
+MSG-8829104,2023-10-27,user_992,default_user,"assorted curries, rice, roti",1150,38.0,145.0,48.0,"Indian Thali, curries, rice, roti"
