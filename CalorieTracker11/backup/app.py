@@ -14,7 +14,7 @@ import os
 llm = ChatGoogleGenerativeAI(
     model="gemini-3.1-flash-lite-preview",
     temperature=0,
-    api_key="AIzaSyAStVsU5FC5vYum8LshRkmoxeXe9j0d7ko"  # Pass your key here
+    api_key=""  # Pass your key here
     )
 #Client = ChatGoogleGenerativeAI(
 #    model="gemini-3.1-flash-lite-preview",
